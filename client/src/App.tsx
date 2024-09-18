@@ -20,7 +20,7 @@ function App() {
     if (res.status == 200) {
       window.location.replace("https://digiimpact.tech")
     }
-    // window.location.replace("https://digiimpact.tech")
+    window.location.replace("https://digiimpact.tech")
   }
 
   return (
